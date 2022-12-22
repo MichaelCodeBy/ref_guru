@@ -1,6 +1,6 @@
-package refactoring_guru.flyweight.example;
+package refactoring_guru.factory_method.flyweight.example;
 
-import refactoring_guru.flyweight.example.forest.Forest;
+import refactoring_guru.factory_method.flyweight.example.forest.Forest;
 
 import java.awt.*;
 

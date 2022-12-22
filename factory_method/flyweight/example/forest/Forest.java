@@ -1,8 +1,8 @@
-package refactoring_guru.flyweight.example.forest;
+package refactoring_guru.factory_method.flyweight.example.forest;
 
-import refactoring_guru.flyweight.example.trees.Tree;
-import refactoring_guru.flyweight.example.trees.TreeFactory;
-import refactoring_guru.flyweight.example.trees.TreeType;
+import refactoring_guru.factory_method.flyweight.example.trees.TreeType;
+import refactoring_guru.factory_method.flyweight.example.trees.Tree;
+import refactoring_guru.factory_method.flyweight.example.trees.TreeFactory;
 
 import javax.swing.*;
 import java.awt.*;
